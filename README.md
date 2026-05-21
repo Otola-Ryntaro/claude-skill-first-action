@@ -85,6 +85,12 @@ claude-skill-first-action/
 └── README.md                      # このファイル
 ```
 
+## 関連リポジトリ
+
+first-action は以下のスキル / コマンドに依存しています。`claude-code-toolkit` には `ticket-gen` `ko` `next` `cr` がまとめて入っているので、セットでインストールするのを推奨します。
+
+- [claude-code-toolkit](https://github.com/Otola-Ryntaro/claude-code-toolkit) — `ticket-gen` skill + `/ko` `/next` `/cr` slash commands
+
 ## ライセンス
 
 [MIT License](LICENSE)
